@@ -3,7 +3,7 @@ import * as dotenv from 'dotenv';
 import cors from 'cors';
 import OpenAI from 'openai';
 
-dotenv.config();
+dotenv.config({path: '/etc/secrets/.env'});
 
 const openai = new OpenAI({
     apiKey: process.env.OPENAI_API_KEY,
