@@ -30,7 +30,7 @@ Check out the live demo of the chatbot [here](https://codexchatbot.vercel.app/).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/codex-chatbot.git
+   git clone https://github.com/trungpham1210/codex-chatbot.git
    cd codex-chatbot
    ```
 
